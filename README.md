@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ilshat34767
-- 👀 I’m interested in using for transporting business: API integration , logistics, TMS (Transport Managment System), CRM, AI, analitics.
+- 👀 I’m interested in creating and using, improving for transporting business: API integration , logistics, TMS (Transport Managment System), CRM, AI, analitics.
 - 🌱 I’m currently learning ... C#, API, Phyton.
 - 💞️ I’m looking to collaborate on ... Creating TMS
 - 📫 How to reach me ... telegram: @i34767
